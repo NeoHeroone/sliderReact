@@ -84,6 +84,7 @@ button {
 .mini-imgs-content img {
   width: 100px;
   height: 100px;
+  cursor: pointer;
 }
 
 .mini-imgs-content {
